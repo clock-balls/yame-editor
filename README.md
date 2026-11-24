@@ -2,7 +2,8 @@
 
 An unofficial in-game editor for **Football Manager 27**: a control panel (F6), AI conversations with your players, and a smartphone to text your staff, your players, your best friends at other clubs and even your rival's manager.
 
-Video: https://youtu.be/Imt9gOd54WI
+Website: https://yame-editor.pages.dev/?from=github  
+Video: https://youtu.be/lmt9gOd54WI
 
 ## Download
 
